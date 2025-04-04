@@ -27,6 +27,27 @@ const memes = [
     imageUrl: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
     likes: 1337,
     comments: 128
+  },
+  {
+    id: 4,
+    title: "When someone says 'you'll use algebra in real life'",
+    imageUrl: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+    likes: 1337,
+    comments: 128
+  },
+  {
+    id: 5,
+    title: "When someone says 'you'll use algebra in real life'",
+    imageUrl: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+    likes: 1337,
+    comments: 128
+  },
+  {
+    id: 6,
+    title: "When someone says 'you'll use algebra in real life'",
+    imageUrl: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+    likes: 1337,
+    comments: 128
   }
 ];
 
