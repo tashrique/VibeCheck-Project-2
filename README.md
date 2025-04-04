@@ -2,6 +2,11 @@
 
 A modern web application that celebrates Gen Z culture with trending content, vibe quizzes, and memes.
 
+Live Link: https://vibe-check-project-2.vercel.app/
+
+![](https://i.imgur.com/PaaUwM3.png)
+
+
 ## Features
 
 - **Trending Section**: Discover the latest trending topics across Lifestyle, Fashion, and Tech
@@ -32,31 +37,6 @@ npm install
 npm start
 ```
 
-## Screenshots
-
-*[Add a screenshot of your application here]*
-
-*(To add a screenshot: Take a screenshot of your application, name it screenshot.png, and place it in the root directory of this project)*
-
-## Project Structure
-
-```
-vibe-check-webapp/
-├── frontend/             # React frontend application
-│   ├── src/              # Source files
-│   │   ├── components/   # React components
-│   │   ├── assets/       # Static assets
-│   │   └── App.jsx       # Main App component
-│   ├── package.json      # Frontend dependencies
-│   └── ...
-├── backend/              # Node.js backend API
-│   ├── routes/           # API routes
-│   ├── models/           # Data models
-│   ├── server.js         # Express server
-│   ├── package.json      # Backend dependencies
-│   └── ...
-└── README.md             # This file
-```
 
 ## Contributing
 
