@@ -34,7 +34,9 @@ npm start
 
 ## Screenshots
 
-![Vibe Check Homepage](./screenshot.png)
+*[Add a screenshot of your application here]*
+
+*(To add a screenshot: Take a screenshot of your application, name it screenshot.png, and place it in the root directory of this project)*
 
 ## Project Structure
 
